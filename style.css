@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(44, 40, 40);
+    text-align: center;
+}
+h1{
+
+    color: white;
+}
+
+#box1, #box2, #box3 {
+    height: 200px;
+}
+
+#box1 {
+    background-color: lightblue;
+}
+
+#box2 {
+    background-color: white;
+}
+
+#box3 {
+    background-color: lightgray;
+}
